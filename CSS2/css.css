@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: lightblue;
+    background-color: #a4c8ff;
     text-align: center;
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 h1, h2, h3 {
-    color: #E8E2DB;
+    color: #0D1A63;
 }
 
 .myUl {
@@ -21,3 +21,7 @@ h1, h2, h3 {
     padding-left: 0;        
 }
 
+p {
+    width: 60%;
+    margin: 20px auto;
+}
